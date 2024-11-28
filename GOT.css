@@ -1,0 +1,52 @@
+body{
+    font-family: sans-serif;
+    font-size: 1.5em;
+    line-height: 1.5em;
+
+}
+
+header{
+    background:lightslategrey;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+article{
+    padding: 20px;
+    color: rgb(235, 230, 230);
+    background-image: url('./Saved_Pictures/gameofthrone.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1{
+    font-size: 3em;
+    text-transform: uppercase;
+}
+
+section{
+    text-align: center;
+    background-color:beige;
+}   
+
+footer{
+    background: #0889c5;
+    color: white;
+    text-align: center;
+    font-size: 0.75em;
+    font-style: italic;
+}
+
+div{
+    text-align: center;
+}
+
+h4{
+    background: palevioletred;
+}
+h2{
+    text-align: center;
+    background-color: chartreuse;
+}
